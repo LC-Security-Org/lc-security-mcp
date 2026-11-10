@@ -1,4 +1,4 @@
-# LC Scam Intelligence for Claude
+# LC Security MCP for Claude
 
 Ask Claude about the scam calls your LC Security decoy lines have answered: what is new, which campaigns are growing, who is behind a number, what to block, or have Claude write the briefing for your fraud team.
 
