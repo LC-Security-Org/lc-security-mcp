@@ -12,10 +12,10 @@ You need an LC Security account that belongs to an organisation. Access is by in
 
 ```sh
 claude plugin marketplace add LC-Security-Org/lc-scam-intelligence
-claude plugin install lc-scam-intelligence@lc-security
+claude plugin install lc-security@lc-security
 ```
 
-Or inside Claude Code: `/plugin marketplace add LC-Security-Org/lc-scam-intelligence`, then `/plugin install lc-scam-intelligence@lc-security`.
+Or inside Claude Code: `/plugin marketplace add LC-Security-Org/lc-scam-intelligence`, then `/plugin install lc-security@lc-security`.
 
 ### Claude Desktop and Claude on the web
 
@@ -51,7 +51,7 @@ If you belong to more than one organisation, say which: "for the acme organisati
 
 The connector also offers ready-made starting points. In Claude Desktop, choose **+** and look under LC Scam Intelligence; in Claude Code, type `/` and pick one under `lc-scam-intelligence`.
 
-**In Claude Code**, the plugin adds shortcuts: `/lc-scam-intelligence:briefing` and `/lc-scam-intelligence:investigate <number or name>`, and Claude uses the LC Scam Intelligence skill on its own when you ask about your scam data.
+**In Claude Code**, the plugin adds shortcuts: `/lc-security:briefing` and `/lc-security:investigate <number or name>`, and Claude uses the LC Scam Intelligence skill on its own when you ask about your scam data.
 
 ## What it can and cannot do
 
@@ -71,6 +71,6 @@ The connector also offers ready-made starting points. In Claude Desktop, choose 
 ## What is in this repository
 
 - `.claude-plugin/marketplace.json`: the plugin marketplace.
-- `plugins/lc-scam-intelligence/`: the plugin, which adds the connector (`.mcp.json`) and three skills.
+- `plugins/lc-security/`: the plugin, which adds the connector (`.mcp.json`) and three skills.
 
 The connector itself runs at `https://app.lcsecurity.ai/mcp`. Questions: [lcsecurity.ai](https://lcsecurity.ai). Copyright LC Security, all rights reserved; see `LICENSE`.
