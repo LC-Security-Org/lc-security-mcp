@@ -4,6 +4,6 @@
   "description": "LC Scam Intelligence inside Claude: ask about the scam calls your decoy lines have answered. Read-only, browser sign-in.",
   "author": { "name": "LC Security", "url": "https://lcsecurity.ai" },
   "homepage": "https://lcsecurity.ai",
-  "repository": "https://github.com/LC-Security-Org/lc-scam-intelligence",
+  "repository": "https://github.com/LC-Security-Org/lc-security-mcp",
   "keywords": ["security", "fraud", "scams", "threat intelligence"]
 }

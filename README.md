@@ -11,11 +11,11 @@ You need an LC Security account that belongs to an organisation. Access is by in
 ### Claude Code
 
 ```sh
-claude plugin marketplace add LC-Security-Org/lc-scam-intelligence
+claude plugin marketplace add LC-Security-Org/lc-security-mcp
 claude plugin install lc-security@lc-security
 ```
 
-Or inside Claude Code: `/plugin marketplace add LC-Security-Org/lc-scam-intelligence`, then `/plugin install lc-security@lc-security`.
+Or inside Claude Code: `/plugin marketplace add LC-Security-Org/lc-security-mcp`, then `/plugin install lc-security@lc-security`.
 
 ### Claude Desktop and Claude on the web
 
