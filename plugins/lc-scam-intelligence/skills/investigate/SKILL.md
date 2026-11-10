@@ -1,11 +1,11 @@
 ---
 name: investigate
-description: Investigate one phone number, account, URL, wallet, caller ID, organisation or campaign in LC Security: where it appeared, which campaign it belongs to, what the callers said, and whether it is blocked. Use when asked "who is behind", "look into" or "what do we know about" something.
+description: Investigate one phone number, account, URL, wallet, caller ID, organisation or campaign in LC Scam Intelligence: where it appeared, which campaign it belongs to, what the callers said, and whether it is blocked. Use when asked "who is behind", "look into" or "what do we know about" something.
 ---
 
-# Investigate with LC Security
+# Investigate with LC Scam Intelligence
 
-Follow the `lc-security` skill for how to use the tools and what to say about limits.
+Follow the `lc-scam-intelligence` skill for how to use the tools and what to say about limits.
 
 1. Call `search` with what the person gave you. If there are several matches, say which you chose and why.
 2. Use `get_entity` for an account, number, URL or wallet; `get_campaign` for a campaign. Use `get_conversation` to read how a caller used it, when the organisation has transcripts.

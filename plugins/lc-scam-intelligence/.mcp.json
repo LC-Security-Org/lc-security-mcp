@@ -1,6 +1,6 @@
 {
   "mcpServers": {
-    "lc-security": {
+    "lc-scam-intelligence": {
       "type": "http",
       "url": "https://app.lcsecurity.ai/mcp"
     }

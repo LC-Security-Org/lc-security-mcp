@@ -1,11 +1,11 @@
 ---
-name: lc-security
-description: Use whenever the person asks about their LC Security data, the scam calls their decoy lines answered, scam campaigns, scammer phone numbers, accounts, URLs or wallets, tactics, alerts, or the blocklist. Always reads the LC Security tools, never general knowledge.
+name: lc-scam-intelligence
+description: Use whenever the person asks about their LC Security data, the scam calls their decoy lines answered, scam campaigns, scammer phone numbers, accounts, URLs or wallets, tactics, alerts, or the blocklist. Always reads the LC Scam Intelligence tools, never general knowledge.
 ---
 
-# LC Security
+# LC Scam Intelligence
 
-LC Security answers scam calls with AI decoy phone lines and shows what the scammers reveal. The `lc-security` connector reads the same data as the person's LC Security dashboard, scoped to their organisation, and the numbers match the screen.
+LC Scam Intelligence is the customer's own scam-call data from their LC Security dashboard: the scam calls LC's AI decoy phone lines answered and what the scammers revealed. The `lc-scam-intelligence` connector reads the same data as the dashboard, scoped to the person's organisation, and the numbers match the screen. It is separate from any other LC tool.
 
 ## How to work
 
