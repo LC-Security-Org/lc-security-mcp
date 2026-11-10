@@ -1,0 +1,9 @@
+{
+  "name": "lc-security",
+  "version": "1.0.0",
+  "description": "LC Security inside Claude: ask about the scam calls your decoy lines have answered. Read-only, browser sign-in.",
+  "author": { "name": "LC Security", "url": "https://lcsecurity.ai" },
+  "homepage": "https://lcsecurity.ai",
+  "repository": "https://github.com/LC-Security-Org/lc-security",
+  "keywords": ["security", "fraud", "scams", "threat intelligence"]
+}

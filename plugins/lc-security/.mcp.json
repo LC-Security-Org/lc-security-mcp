@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "lc-security": {
+      "type": "http",
+      "url": "https://app.lcsecurity.ai/mcp"
+    }
+  }
+}
